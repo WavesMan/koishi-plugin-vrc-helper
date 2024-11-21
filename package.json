@@ -1,0 +1,17 @@
+{
+    "name": "koishi-plugin-vrc-helper",
+    "version": "0.0.1",
+    "contributors": [
+      "Waves_Man <1690611689@qq.com>"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/WavesMan/koishi-plugin-vrc-helper",
+    "repository": {
+      "type": "git",
+      "url": "git+hhttps://github.com/WavesMan/koishi-plugin-vrc-helper.git"
+    },
+    "keywords": ["category:gametool"],
+    "peerDependencies": {
+      "koishi": "^4.3.2"
+    }
+  }
